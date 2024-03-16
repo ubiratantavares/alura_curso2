@@ -16,7 +16,7 @@
 
 5. Criar manipulações de palavras e números de forma dinâmica com JavaScript
 
-## Módulo 01 - Interagindo com HTML Ver primeiro vídeo
+## Módulo 01 - Interagindo com HTML
 
 * Apresentação
 * Preparando o ambiente
